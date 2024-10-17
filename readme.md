@@ -5,10 +5,10 @@
 
 Neste blog você poderá encontrar **assuntos diversos** tanto **pessoais** quanto **aleatórios** (Isso inclui opiniões).
 
-O blog possui um sistema simples de [pesquisa](/blog/) e [tags](/blog/tags). <br>
-<sup>**Exemplo (tags):** [<code>galinhasdomexico.github.io/blog?tags=Random</code></sup>](/blog/?tags=None)
+O blog possui um sistema simples de [pesquisa](https://galinhasdomexico.github.io/blog/) e [tags](https://galinhasdomexico.github.io/blog/tags). <br>
+<sup>**Exemplo (tags):** [<code>galinhasdomexico.github.io/blog?tags=Random</code></sup>](https://galinhasdomexico.github.io/blog/?tags=None)
 
-Outras informações do blog estão disponíveis [aqui](/blog/about).
+Outras informações do blog estão disponíveis [aqui](https://galinhasdomexico.github.io/blog/about).
 
 ----
 <br>
