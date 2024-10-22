@@ -1,4 +1,4 @@
-![Nav image](https://galinhasdomexico.github.io/cdn/img/navbg.webp)
+![Other Background (No Player)](https://galinhasdomexico.github.io/cdn/img/others/other%20background%20(no%20player).png)
 <sup>**The blog is only available in PT-BR**</sup>
 
 # Boas-vindas ao meu Blog
@@ -13,5 +13,3 @@ Outras informações do blog estão disponíveis [aqui](https://galinhasdomexico
 ----
 <br>
 <sup>O blog pode possuir opiniões que não agradam a todos, então não venha xingar até meus ancestrais apenas por causa da minha opinião</sup>
-
-![Footer](https://galinhasdomexico.github.io/cdn/img/navbgrooter.webp)
